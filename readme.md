@@ -84,4 +84,4 @@ To run the project locally you need to follow steps 1 and 2 of [deploying](#depl
 - Shu Ding [@shuding\_](https://twitter.com/shuding_) for the design help
 - Luis Alvarez [@luis_fades](https://twitter.com/luis_fades) for design help and bug catching
 
-Notionブログ
+テスト
